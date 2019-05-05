@@ -29,7 +29,7 @@ def add_supply_to_winter_holidays(holiday_hash, supply)
 
 end
 
-add_supply_to_winter_holidays(holiday_hash, supply)
+add_supply_to_winter_holidays(supply)
 
 
 def add_supply_to_memorial_day(holiday_hash, supply)
